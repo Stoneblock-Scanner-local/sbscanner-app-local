@@ -1,0 +1,5 @@
+export enum ProjectType {
+  RANKINGS = "RANKINGS",
+  COMMUNITY = "COMMUNITY",
+  NOMINATIONS = "NOMINATIONS",
+}
